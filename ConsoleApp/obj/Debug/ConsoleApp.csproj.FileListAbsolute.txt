@@ -1,0 +1,9 @@
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\bin\Debug\DataLayer.dll
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\bin\Debug\DataLayer.pdb
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\ardas\Documents\DevEnv\Workspaces\C#\MITp\ConsoleApp\obj\Debug\ConsoleApp.pdb
