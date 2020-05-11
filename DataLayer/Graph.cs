@@ -299,7 +299,7 @@ namespace DataLayer
         public void PrintWorkTimeRows()
         {
             var formatHead =
-                $"| {"Index",-5} | {"Work",-7} | {"Cost",-4} | {"StartEarlier",-12} | {"StartLatest",-11} | {"FinishEarlier",-13} | {"FinishLatest",-12} |";
+                $"| {"Index",-5} | {"Work",-7} | {"Cost",-4} | {"StartEarlier",-12} | {"StartLatest",-11} | {"FinishEarlier",-13} | {"FinishLatest",-12} | {"Budget",-6} |";
             var lengthRow = formatHead.Length;
             PrintBr(lengthRow);
             Console.WriteLine(formatHead);
@@ -308,7 +308,7 @@ namespace DataLayer
             {
                 var row = WorkTimeRows[i];
                 Console.WriteLine(
-                    $"| {i + 1,-5} | {(row.State1 + 1) + " - " + (row.State2 + 1),-7} | {row.Cost,-4} | {row.StartEarlier,-12} | {row.StartLatest,-11} | {row.FinishEarlier,-13} | {row.FinishLatest,-12} |");
+                    $"| {i + 1,-5} | {(row.State1 + 1) + " - " + (row.State2 + 1),-7} | {row.Cost,-4} | {row.StartEarlier,-12} | {row.StartLatest,-11} | {row.FinishEarlier,-13} | {row.FinishLatest,-12} | {row.Budget, -6} |");
                 PrintBr(lengthRow);
             }
         }
